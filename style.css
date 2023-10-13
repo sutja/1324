@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color: #ff007b;
+  text-align: center;
+}
+body{
+  background-color: yellow;
+}
